@@ -5,3 +5,4 @@
 ## 更新列表
 
 * E01-1 Semaphore类的使用
+* E01-2 动态增加permits
