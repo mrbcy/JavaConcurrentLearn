@@ -6,3 +6,4 @@
 
 * E01-1 Semaphore类的使用
 * E01-2 动态增加permits
+* E01-3 获取等待线程数
