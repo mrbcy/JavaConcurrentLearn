@@ -4,6 +4,8 @@
 
 ## 更新列表
 
+### Semaphore的使用
+
 * E01-1 Semaphore类的使用
 * E01-2 动态增加permits
 * E01-3 获取等待线程数
@@ -12,3 +14,7 @@
 * E01-6 多进路-单处理-多出路实验
 * E01-7 使用Semaphore创建字符串池
 * E01-8 Semaphore多生产者多消费者实验
+
+### Exchanger的使用
+
+* E02-1 exchange方法的阻塞特性
