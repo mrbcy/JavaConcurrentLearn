@@ -18,3 +18,4 @@
 ### Exchanger的使用
 
 * E02-1 exchange方法的阻塞特性
+* E02-2 使用exchange方法传递数据
