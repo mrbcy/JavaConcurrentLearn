@@ -19,3 +19,4 @@
 
 * E02-1 exchange方法的阻塞特性
 * E02-2 使用exchange方法传递数据
+* E02-3 exchange方法的超时
